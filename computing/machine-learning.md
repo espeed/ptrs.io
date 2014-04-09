@@ -18,9 +18,10 @@ abstract: |
 
 # Free Online Courses
 
+<div itemtype="courses">
 * [Caltech: Learning From Data](http://work.caltech.edu/lectures.html), by Yaser Abu-Mostafa
 * [Stanford: Machine Learning](http://see.stanford.edu/see/courseInfo.aspx?coll=348ca38a-3a6d-4052-937d-cb017338d7b1), by Andrew Ng 
-
+</div>
 
 This is a formatted [link][] with attributes.
 
