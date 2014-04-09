@@ -3,6 +3,10 @@ title: 'This is a title: it contains a colon'
 author: James Thornton
 affiliation: Electric Speed
 tags: [nothing, nothingness]
+abstract: |
+  This is the abstract.
+
+  It consists of two paragraphs.
 notes: See Jekyll Front Matter http://jekyllrb.com/docs/frontmatter/
 ---
 
