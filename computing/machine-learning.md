@@ -25,7 +25,7 @@ abstract: |
 This is a formatted [link][] with attributes.
 
 
-[link]: http://path.to/link.html "Some Link :itemprop=article" 
+[link]: http://path.to/link.html "Some Link (article)" 
 
 
 
