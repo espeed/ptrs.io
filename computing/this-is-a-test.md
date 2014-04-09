@@ -1,14 +1,11 @@
----
 title: 'This is a title: it contains a colon'
-author: 
-- name: James Thornton
-  affiliation: Electric Speed
+author: James Thornton
+affiliation: Electric Speed
 tags: [nothing, nothingness]
 abstract: |
   This is the abstract.
 
   It consists of two paragraphs.
-...
 
 
 # Machine Learning
