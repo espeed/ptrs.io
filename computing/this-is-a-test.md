@@ -1,6 +1,5 @@
 ---
 topic: https://en.wikipedia.org/wiki/Machine_learning
-title: 'This is a title: it contains a colon'
 author: espeed
 tags: [nothing, nothingness]
 abstract: |
