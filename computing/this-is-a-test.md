@@ -1,6 +1,5 @@
 ---
 topic: https://en.wikipedia.org/wiki/Machine_learning
-author: espeed
 tags: [nothing, nothingness]
 abstract: |
   This is the abstract.
