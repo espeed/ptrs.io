@@ -9,7 +9,7 @@ abstract: |
 ---
 
 [//]: # (This may be the most platform independent comment)
-[//]: # See Jekyll Front Matter http://jekyllrb.com/docs/frontmatter/
+[//]: # (See Jekyll Front Matter http://jekyllrb.com/docs/frontmatter/)
 
 
 # Machine Learning
