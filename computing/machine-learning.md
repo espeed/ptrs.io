@@ -16,17 +16,20 @@ abstract: |
 [//]: # http://www.writersdigest.com/qp7-migration-books/story-engineering-excerpt -- concept, idea, premise, story
 [//]: # https://en.wikipedia.org/wiki/Topic_map Topic Maps are similar to concept maps and mind maps in many respects, though only Topic Maps are ISO standards. Topic Maps are a form of semantic web technology similar to RDF
 
-# Free Online Courses
 
-<div itemtype="courses">
+# Lectures
+
 * [Caltech: Learning From Data](http://work.caltech.edu/lectures.html), by Yaser Abu-Mostafa
 * [Stanford: Machine Learning](http://see.stanford.edu/see/courseInfo.aspx?coll=348ca38a-3a6d-4052-937d-cb017338d7b1), by Andrew Ng 
-</div>
+
+This is a wikilink [[learning-from-data/item:book]].
+
 
 This is a formatted [link][] with attributes.
 
 
 [link]: http://path.to/link.html "Some Link (article)" 
+
 
 
 
