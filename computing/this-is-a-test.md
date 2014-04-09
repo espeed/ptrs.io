@@ -17,3 +17,4 @@ abstract: |
 * [Standord: Machine Learning](http://see.stanford.edu/see/courseInfo.aspx?coll=348ca38a-3a6d-4052-937d-cb017338d7b1), by Andrew Ng 
 
 
+
