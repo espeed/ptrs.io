@@ -1,0 +1,116 @@
+---
+topic: https://en.wikipedia.org/wiki/Schema.org
+tags: [nothing, nothingness]
+status: draft
+abstract: |
+  This is the abstract.
+
+  It consists of two paragraphs.
+---
+
+[//]: # (This may be the most platform independent comment)
+[//]: # (See Jekyll Front Matter http://jekyllrb.com/docs/frontmatter/)
+[//]: # (http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
+[//]: # Semantic Headings: Books, Videos, Articles, Websites, Courses, People, Groups, Communities
+[//]: # semantic microformats: https://en.wikipedia.org/wiki/Semantic_Web , schema.org, xoxo, tag (metadata), 
+[//]: # http://www.writersdigest.com/qp7-migration-books/story-engineering-excerpt -- concept, idea, premise, story
+[//]: # https://en.wikipedia.org/wiki/Topic_map Topic Maps are similar to concept maps and mind maps in many respects, though only Topic Maps are ISO standards. Topic Maps are a form of semantic web technology similar to RDF
+
+
+http://stackoverflow.com/questions/2017001/adding-a-class-attribute-to-a-hyperlink-in-markdown
+http://stackoverflow.com/questions/975264/how-do-i-set-an-html-class-attribute-in-markdown
+maruku, multimarkdown, kramdown
+http://maruku.rubyforge.org/proposal.html
+http://kramdown.gettalong.org/quickref.html#block-attributes
+
+* Creative works: CreativeWork, Book, Movie, MusicRecording, Recipe, TVSeries ...
+* Embedded non-text objects: AudioObject, ImageObject, VideoObject
+* Event
+* Organization
+* Person
+* Place, LocalBusiness, Restaurant ...
+* Product, Offer, AggregateOffer
+* Review, AggregateRating
+
+Let's use... 
+* Lectures
+* Courses (online or not, may not make much difference in the future)
+* MOOC (Massive Open Online Course) - 2012 became "the year of the MOOC" as several well-financed providers, associated with top universities, emerged, including Coursera, Udacity, and edX.[29]
+* Webcasts
+* Podcast
+
+http://mooc.org/
+https://en.wikipedia.org/wiki/Massive_open_online_course
+https://en.wikipedia.org/wiki/Online_course
+
+See http://schema.org/docs/full.html, http://www.lrmi.net/ (Learning Resource Metadata Inititive) http://www.lrmi.net/the-specification, schema.org/EducationalAudience, https://groups.google.com/forum/#!topic/lrmi/ZQPdqSDDFbM, https://groups.google.com/forum/#!topic/lrmi/KLxe5i_1uTY
+
+Have curators for each topic specify audience type and more specifid metadata for each resource
+
+http://googlecustomsearch.blogspot.com/2014/03/create-search-engine-with-schemaorg.html
+https://support.google.com/customsearch/answer/4544182?hl=en
+
+# CreativeWork
+
+* Answer
+* Article
+* Blog
+* Book
+* Clip
+** RadioClip
+** TVClip
+* Code
+* Comment
+* DataCatalog
+* Dataset
+* Diet
+* EmailMessage
+* Episode
+** RadioEpisode
+** TVEpisode
+* ExercisePlan
+* ItemList
+* Map
+* MediaObject
+* Movie
+* MusicPlaylist
+** MusicAlbum
+* MusicRecording
+* Painting
+* Photograph
+* Question
+* Recipe
+* Review
+* Sculpture
+* Season
+** RadioSeason
+** TVSeason
+* Series
+** RadioSeries
+** TVSeries
+* SoftwareApplication
+** MobileApplication
+** WebApplication
+* WebPage
+* WebPageElement
+
+# Intangible
+
+* Audience
+* Brand
+* Flight
+* JobPosting
+* Offer
+* Order
+
+
+# Organization
+
+# Person
+
+# Place
+
+# Product
+
+# Property
+
