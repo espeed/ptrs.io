@@ -22,4 +22,12 @@ abstract: |
 * [Stanford: Machine Learning](http://see.stanford.edu/see/courseInfo.aspx?coll=348ca38a-3a6d-4052-937d-cb017338d7b1), by Andrew Ng 
 
 
+This is a formatted ![image][] and a [link][] with attributes.
+
+[image]: http://path.to/image "Image title" width=40px height=400px
+[link]:  http://path.to/link.html "Some Link" class=external
+         style="border: solid black 1px;"
+
+
+
 
