@@ -18,14 +18,14 @@ abstract: |
 
 # Free Online Courses
 
-* [Caltech: Learning From Data](http://work.caltech.edu/lectures.html #itemprop=article), by Yaser Abu-Mostafa
+* [Caltech: Learning From Data](http://work.caltech.edu/lectures.html), by Yaser Abu-Mostafa
 * [Stanford: Machine Learning](http://see.stanford.edu/see/courseInfo.aspx?coll=348ca38a-3a6d-4052-937d-cb017338d7b1), by Andrew Ng 
 
 
 This is a formatted [link][] with attributes.
 
 
-[link]: http://path.to/link.html "Some Link" 
+[link]: http://path.to/link.html "Some Link :itemprop=article" 
 
 
 
