@@ -22,7 +22,7 @@ abstract: |
 * [Caltech: Learning From Data](http://work.caltech.edu/lectures.html), by Yaser Abu-Mostafa
 * [Stanford: Machine Learning](http://see.stanford.edu/see/courseInfo.aspx?coll=348ca38a-3a6d-4052-937d-cb017338d7b1), by Andrew Ng 
 
-This is a wikilink [[Learning from Data|learning-from-data/item:book]].
+This is a wikilink [[Learning from Data|LearningFromData]].
 
 
 This is a formatted [link][] with attributes.
