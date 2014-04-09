@@ -1,6 +1,7 @@
 ---
+topic: https://en.wikipedia.org/wiki/Machine_learning
 title: 'This is a title: it contains a colon'
-author: James Thornton
+author: espeed
 tags: [nothing, nothingness]
 abstract: |
   This is the abstract.
@@ -10,7 +11,7 @@ abstract: |
 
 [//]: # (This may be the most platform independent comment)
 [//]: # (See Jekyll Front Matter http://jekyllrb.com/docs/frontmatter/)
-
+[//]: # (http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
 # Machine Learning
 
